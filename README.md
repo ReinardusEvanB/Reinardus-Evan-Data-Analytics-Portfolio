@@ -8,3 +8,5 @@ Hello everyone! My name is Reinardus Evan, you can called me Evan. Here is my Po
 - Data Visualization;
 - Gathering Insights;
 - A/B Testing
+Deck :
+https://drive.google.com/file/d/1qloM3zQdGqxqrXSdJVyEsMyAs18X-cIf/view?usp=drive_link
