@@ -1,5 +1,17 @@
-## Reinardus-Evan-Data-Analytics-Portfolio
-Hello everyone! My name is Reinardus Evan, you can call me Evan. Here is my Portfolio as a Data Analyst, please check it out!
+# Reinardus-Evan-Data-Analytics-Portfolio
+
+# Introduction
+Hello!
+Welcome to my portfolio. My name is evan and I am glad to have you here
+
+In the following section, I will be sure to provide you with a summary of my Data Analytics journey. 
+
+# About Me
+Hi, I'm Evan,
+A motivated individual and dedicated professional with experience in the supply chain, specializing in production planning and inventory control. I've decided to channel my curiosity and love for problem-solving into the realm of data.
+With my experience, I've honed my analytical skills and developed a keen eye for detail. I excel in translating data into compelling narratives and actionable recommendations.
+I am thrilled to be on this journey, and I look forward to leveraging my skills and experiences to make a meaningful impact in the field of data analysis. Thank you for taking the time to explore my portfolio, and I'm excited to connect with you to discuss how we can collaborate and drive success together.
+
 
 # Spreadsheet/ Excel Skill sets:
 - Data Cleaning;
