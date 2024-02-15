@@ -45,8 +45,17 @@ Code Example :
 -Cluster Analysis
 
 Code Examples:
-[Clustering Analysis](https://colab.research.google.com/drive/1QnOXqjA5TRpNMfL89DNgO2XjGSwPSzhX?usp=drive_link)
+## RFM Analysis
+**Goal:** knowing consumer behavior and consumer purchasing patterns so that we can determine which strategies are suitable for our consumer behavior either retain our loyal consumers or increase the purchasing interest of consumers who have not made transactions with our service for a long time
+
+**Description**: The project focused on analyzing a dataset of the user of a bank focused on merchant name 'revoush'. The dataset included account ID, user personal information (gender, birthdate, Income), user transactions, and other relevant information. The project included Loading the dataset, data cleaning, exploratory data analysis, user segmentation.
 [RFM Analysis](https://colab.research.google.com/drive/1AAXpGX09V9EpjlVVhIfupuXLmOU9RCNv?usp=drive_link)
+
+## Drink Company's Campaign Promotion
+**Goal:** target 10 other regions that have similar buying habits to Saint Petersburg where they would expect the promotion to be similarly successful.
+
+**Description:** company owns a chain of stores across Russia that sell a variety of alcoholic drinks. The company recently ran a wine promotion in Saint Petersburg that was very successful. Due to the cost to the business, it isn’t possible to run the promotion in all regions. The dataset included year, region, wine, beer, vodka, champagne, brady
+[Drink company's campaign promotion](https://github.com/ReinardusEvanB/Project-1/blob/main/Project-01.ipynb)
 
 # Data Visualization
 [Example 1](https://public.tableau.com/app/profile/reinardus.evan.b/viz/assignment_17019715984630/Dashboard1?publish=yes)
