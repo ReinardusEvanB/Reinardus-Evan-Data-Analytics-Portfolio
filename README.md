@@ -12,6 +12,8 @@ A motivated individual and dedicated professional with experience in the supply 
 With my experience, I've honed my analytical skills and developed a keen eye for detail. I excel in translating data into compelling narratives and actionable recommendations.
 I am thrilled to be on this journey, and I look forward to leveraging my skills and experiences to make a meaningful impact in the field of data analysis. Thank you for taking the time to explore my portfolio, and I'm excited to connect with you to discuss how we can collaborate and drive success together.
 
+My CV [pdf](https://drive.google.com/file/d/1FJPaxOqpS0kawMqrYX-CFHSAlrgTjcqm/view?usp=sharing)
+
 
 # Spreadsheet/ Excel Skill sets:
 - Data Cleaning;
@@ -35,18 +37,18 @@ Code Example :
 - [Cohort Analysis](https://console.cloud.google.com/bigquery?sq=1094489392988:91c3c24200d943d98f599961417da095)
 
 # Python Skill Sets:
--Handling missing data
--Removing duplicates
--Handling Outlier
--Combine & merge datasets
--Data aggregation
--Descriptive statistic
--Analyzing using visualization
--Cluster Analysis
+- Handling missing data
+- Removing duplicates
+- Handling Outlier
+- Combine & merge datasets
+- Data aggregation
+- Descriptive statistic
+- Analyzing using visualization
+- Cluster Analysis
 
 Code Examples:
 ## RFM Analysis
-**Goal:** knowing consumer behavior and consumer purchasing patterns so that we can determine which strategies are suitable for our consumer behavior either retain our loyal consumers or increase the purchasing interest of consumers who have not made transactions with our service for a long time
+**Goal:** Knowing consumer behavior and consumer purchasing patterns so that we can determine which strategies are suitable for our consumer behavior either retain our loyal consumers or increase the purchasing interest of consumers who have not made transactions with our service for a long time
 
 **Description**: The project focused on analyzing a dataset of the user of a bank focused on merchant name 'revoush'. The dataset included account ID, user personal information (gender, birthdate, Income), user transactions, and other relevant information. The project included Loading the dataset, data cleaning, exploratory data analysis, user segmentation.
 [RFM Analysis](https://colab.research.google.com/drive/1AAXpGX09V9EpjlVVhIfupuXLmOU9RCNv?usp=drive_link)
@@ -54,7 +56,7 @@ Code Examples:
 ## Drink Company's Campaign Promotion
 **Goal:** target 10 other regions that have similar buying habits to Saint Petersburg where they would expect the promotion to be similarly successful.
 
-**Description:** company owns a chain of stores across Russia that sell a variety of alcoholic drinks. The company recently ran a wine promotion in Saint Petersburg that was very successful. Due to the cost to the business, it isn’t possible to run the promotion in all regions. The dataset included year, region, wine, beer, vodka, champagne, brady
+**Description:** The company owns a chain of stores across Russia that sell a variety of alcoholic drinks. The company recently ran a wine promotion in Saint Petersburg that was very successful. Due to the cost to the business, it isn’t possible to run the promotion in all regions. The dataset included year, region, wine, beer, vodka, champagne, Brady
 [Drink company's campaign promotion](https://github.com/ReinardusEvanB/Project-1/blob/main/Project-01.ipynb)
 
 # Data Visualization
