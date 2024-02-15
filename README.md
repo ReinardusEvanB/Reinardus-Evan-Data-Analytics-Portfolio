@@ -1,4 +1,4 @@
-# Reinardus-Evan-Data-Analytics-Portfolio
+## Reinardus-Evan-Data-Analytics-Portfolio
 Hello everyone! My name is Reinardus Evan, you can call me Evan. Here is my Portfolio as a Data Analyst, please check it out!
 
 # Spreadsheet/ Excel Skill sets:
