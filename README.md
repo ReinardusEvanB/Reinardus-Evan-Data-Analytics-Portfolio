@@ -116,6 +116,7 @@ Data Cleaning, Descriptive Analysis, Clustering, Dimensionality Reduction.
 
 **Results**
 Khanty–Mansi Autonomous Okrug – Yugra, Yamalo-Nenets Autonomous Okrug, Novgorod Oblast, Republic of Karelia, Leningrad Oblast, Tyumen Oblast, Khabarovsk Krai, Tver Oblast, Yaroslavl Oblast, and Moscow Oblast are the list of regions that have similarities to Saint Petersburg's alcohol consumption. This is based on the closest distance in the scatter plot to that area. 
+
 [Drink company's campaign promotion](https://github.com/ReinardusEvanB/Project-1/blob/main/Project-01.ipynb)
 
 ## Tableau
