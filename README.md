@@ -120,13 +120,14 @@ Khanty–Mansi Autonomous Okrug – Yugra, Yamalo-Nenets Autonomous Okrug, Novgo
 
 ## Tableau
 
+**Background:**
+ X (Fictional name) is a hotel consultant who provides consulting services for hotels with large chains throughout the world. With the ease of hotel booking, consumers have the freedom to change or choose the holiday destination they want. This has an impact on increasing the cancel rate for each hotel. Apart from that, knowing consumer behavior is important so that we can determine what steps we should take to attract consumers to book at our hotel.
 
+ **Goal:**
+To provide Hotel X with an executive summary report detailing its performance thus far
 
-[Example 1](https://public.tableau.com/app/profile/reinardus.evan.b/viz/assignment_17019715984630/Dashboard1?publish=yes)
-[Example 2](https://public.tableau.com/app/profile/reinardus.evan.b/viz/DEEP_17041042861150/XExecutiveSummary?publish=yes)
+[Executive summary hotel x](https://public.tableau.com/app/profile/reinardus.evan.b/viz/DEEP_17041042861150/XExecutiveSummary?publish=yes)
 
-## Project Based Analytics
-[Consultant hotel](https://drive.google.com/file/d/1pyYrMI9j4BSgMdt6dgAp28bYPxb_PTZP/view?usp=drive_link)
 
 
 
