@@ -44,6 +44,7 @@ Download my CV [pdf](https://drive.google.com/file/d/1FJPaxOqpS0kawMqrYX-CFHSAlr
 - A/B Testing;
 
 Project 1 :
+
 **Background:** Luxura is an e-commerce company focusing on selling luxury fashion products. The store exclusively sells several famous brands such as Adibi,Balena, and Celina. Luxura has a mission to prioritize either of these 3 brand marketing.
 
 **Goal:**
@@ -80,7 +81,7 @@ Code Example :
 - Cluster Analysis
 
 Code Examples:
-### RFM Analysis
+### Project 1
 **Background**: The project focused on analyzing a dataset of the user of a bank named Revobank focused on merchant name 'revoush'. The dataset included account ID, user personal information (gender, birthdate, Income), user transactions, and other relevant information. The project included Loading the dataset, data cleaning, exploratory data analysis, and user segmentation.
 
 **Goal:** Knowing consumer behavior and consumer purchasing patterns so that we can determine which strategies are suitable for our consumer behavior either retain our loyal consumers or increase the purchasing interest of consumers who have not made transactions with our service for a long time.
@@ -94,7 +95,7 @@ Based on cluster interpretation, we can offer promotions to the top segments tha
 [RFM Analysis Code](https://colab.research.google.com/drive/1AAXpGX09V9EpjlVVhIfupuXLmOU9RCNv?usp=drive_link)
 [RFM Analysis Deck](https://docs.google.com/presentation/d/1ltF7nQeVRO6r-dEkBjHIZg8Wzeg3lPJBjp6MeRUNx0Y/edit#slide=id.g295c4c5388d_0_0)
 
-### Drink Company's Campaign Promotion
+### Project 2
 **Background:** The company owns a chain of stores across Russia that sell a variety of alcoholic drinks. The company recently ran a wine promotion in Saint Petersburg that was very successful. Due to the cost to the business, it isn’t possible to run the promotion in all regions. The dataset included year, region, wine, beer, vodka, champagne, Brady.
 
 **Goal:** Target 10 other regions with similar buying habits to Saint Petersburg where they expect the promotion to be similarly successful.
