@@ -67,7 +67,18 @@ Adibi does.
 - SQL Date Format;
 - SQL Window Function
 
-Code Example : 
+Code Example :
+
+**Background:**
+TheLook is a fictitious e-commerce clothing site developed by the looker team. The dataset contains information about customers, products, orders, logistics, web events, and digital marketing campaigns. The contents of this dataset are synthetic and are provided to industry practitioners for product discovery, testing, and evaluation.
+
+**Method & tools**
+BigQuery, SQL, Cohort Analysis
+
+**Results**
+- The average user most likely will return to purchase after 4 months from their first purchase.
+-  we can see that in March 2022, there was always an increase in purchases by users. it can be inferred that users are most likely to make a purchase this month
+
 - [Cohort Analysis](https://console.cloud.google.com/bigquery?sq=1094489392988:91c3c24200d943d98f599961417da095)
 
 ## Python Skill Sets:
@@ -96,7 +107,7 @@ Based on cluster interpretation, we can offer promotions to the top segments tha
 [RFM Analysis Deck](https://docs.google.com/presentation/d/1ltF7nQeVRO6r-dEkBjHIZg8Wzeg3lPJBjp6MeRUNx0Y/edit#slide=id.g295c4c5388d_0_0)
 
 ### Project 2
-**Background:** The company owns a chain of stores across Russia that sell a variety of alcoholic drinks. The company recently ran a wine promotion in Saint Petersburg that was very successful. Due to the cost to the business, it isn’t possible to run the promotion in all regions. The dataset included year, region, wine, beer, vodka, champagne, Brady.
+**Background:** The company owns a chain of stores across Russia that sell a variety of alcoholic drinks. The company recently ran a wine promotion in Saint Petersburg that was very successful. Due to the business’s cost, running the promotion in all regions is impossible. The dataset included year, region, wine, beer, vodka, champagne, and Brady.
 
 **Goal:** Target 10 other regions with similar buying habits to Saint Petersburg where they expect the promotion to be similarly successful.
 
@@ -107,7 +118,10 @@ Data Cleaning, Descriptive Analysis, Clustering, Dimensionality Reduction.
 Khanty–Mansi Autonomous Okrug – Yugra, Yamalo-Nenets Autonomous Okrug, Novgorod Oblast, Republic of Karelia, Leningrad Oblast, Tyumen Oblast, Khabarovsk Krai, Tver Oblast, Yaroslavl Oblast, and Moscow Oblast are the list of regions that have similarities to Saint Petersburg's alcohol consumption. This is based on the closest distance in the scatter plot to that area. 
 [Drink company's campaign promotion](https://github.com/ReinardusEvanB/Project-1/blob/main/Project-01.ipynb)
 
-## Data Visualization
+## Tableau
+
+
+
 [Example 1](https://public.tableau.com/app/profile/reinardus.evan.b/viz/assignment_17019715984630/Dashboard1?publish=yes)
 [Example 2](https://public.tableau.com/app/profile/reinardus.evan.b/viz/DEEP_17041042861150/XExecutiveSummary?publish=yes)
 
