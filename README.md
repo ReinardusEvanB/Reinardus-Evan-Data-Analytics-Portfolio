@@ -79,7 +79,7 @@ BigQuery, SQL, Cohort Analysis
 - The average user most likely will return to purchase after 4 months from their first purchase.
 -  we can see that in March 2022, there was always an increase in purchases by users. it can be inferred that users are most likely to make a purchase this month
 
-- [Cohort Analysis](https://console.cloud.google.com/bigquery?sq=1094489392988:91c3c24200d943d98f599961417da095)
+[Cohort Analysis](https://console.cloud.google.com/bigquery?sq=1094489392988:91c3c24200d943d98f599961417da095)
 
 ## Python Skill Sets:
 - Handling missing data
