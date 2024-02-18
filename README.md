@@ -16,8 +16,10 @@ I am thrilled to be on this journey, and I look forward to leveraging my skills 
 **Parahyangan Catholic University**  
 *August 2016 – April 2021*  
 Bachelor of Industrial Engineering
+
 **Undergraduate Thesis:**  
 "Designing a Supply Chain Network to Enhance the Value of Coffee Shop Container Waste in Alignment with the Circular Economy"
+
 **Relevant Courses:**  
 - A/B Testing  
 - Mathematical Modeling  
@@ -43,11 +45,14 @@ Download my CV [pdf](https://drive.google.com/file/d/1FJPaxOqpS0kawMqrYX-CFHSAlr
 
 Project 1 :
 **Background:** Luxura is an e-commerce company focusing on selling luxury fashion products. The store exclusively sells several famous brands such as Adibi,Balena, and Celina. Luxura has a mission to prioritize either of these 3 brand marketing.
+
 **Goal:**
 1. We can find buyer tendencies regarding which brand users buy more than other brands
 2. Based on the total contributions revenue of each brand, we can find out which brand is more profitable to our company and prioritize which brand we support on our e-commerce.
+
 **Method and Tools:**
 Google Spreadsheets, Data Cleaning, Descriptive Analysis
+
 **Result:**
 1. The total purchases made by users, Adibi has more products purchased by our users. We can provide recommendations to brands in our e-commerce to provide cheaper prices with smaller discounts, as
 Adibi does.
@@ -77,9 +82,12 @@ Code Example :
 Code Examples:
 ### RFM Analysis
 **Background**: The project focused on analyzing a dataset of the user of a bank named Revobank focused on merchant name 'revoush'. The dataset included account ID, user personal information (gender, birthdate, Income), user transactions, and other relevant information. The project included Loading the dataset, data cleaning, exploratory data analysis, and user segmentation.
-**Goal:** Knowing consumer behavior and consumer purchasing patterns so that we can determine which strategies are suitable for our consumer behavior either retain our loyal consumers or increase the purchasing interest of consumers who have not made transactions with our service for a long time
+
+**Goal:** Knowing consumer behavior and consumer purchasing patterns so that we can determine which strategies are suitable for our consumer behavior either retain our loyal consumers or increase the purchasing interest of consumers who have not made transactions with our service for a long time.
+
 **Method & tools:**
 RFM clustering, EDA, Python
+
 **Results:**
 Based on cluster interpretation, we can offer promotions to the top segments that generate the highest total sales and shopping frequency (namely champions, can't lose them, loyal customers, and at-risk segments). It can be seen that these four segments are still lacking in promo-sensitive aspects. So if we can increase promotional sensitivity to these four aspects, we can increase the number of transactions and increase total sales for Revobank. In conclusion, if you want to focus on the segments that will be given promos in the future, then the segments that will receive special attention are: 'can't lose them' and 'loyal customers' because these two segments still have a low level of promo sensitivity
 
@@ -87,10 +95,13 @@ Based on cluster interpretation, we can offer promotions to the top segments tha
 [RFM Analysis Deck](https://docs.google.com/presentation/d/1ltF7nQeVRO6r-dEkBjHIZg8Wzeg3lPJBjp6MeRUNx0Y/edit#slide=id.g295c4c5388d_0_0)
 
 ### Drink Company's Campaign Promotion
-**Background:** The company owns a chain of stores across Russia that sell a variety of alcoholic drinks. The company recently ran a wine promotion in Saint Petersburg that was very successful. Due to the cost to the business, it isn’t possible to run the promotion in all regions. The dataset included year, region, wine, beer, vodka, champagne, Brady
+**Background:** The company owns a chain of stores across Russia that sell a variety of alcoholic drinks. The company recently ran a wine promotion in Saint Petersburg that was very successful. Due to the cost to the business, it isn’t possible to run the promotion in all regions. The dataset included year, region, wine, beer, vodka, champagne, Brady.
+
 **Goal:** Target 10 other regions with similar buying habits to Saint Petersburg where they expect the promotion to be similarly successful.
+
 **Method & Tools:**
-Data Cleaning, Descriptive Analysis, Clustering, Dimensionality Reduction, 
+Data Cleaning, Descriptive Analysis, Clustering, Dimensionality Reduction.
+
 **Results**
 Khanty–Mansi Autonomous Okrug – Yugra, Yamalo-Nenets Autonomous Okrug, Novgorod Oblast, Republic of Karelia, Leningrad Oblast, Tyumen Oblast, Khabarovsk Krai, Tver Oblast, Yaroslavl Oblast, and Moscow Oblast are the list of regions that have similarities to Saint Petersburg's alcohol consumption. This is based on the closest distance in the scatter plot to that area. 
 [Drink company's campaign promotion](https://github.com/ReinardusEvanB/Project-1/blob/main/Project-01.ipynb)
