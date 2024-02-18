@@ -14,7 +14,7 @@ I am thrilled to be on this journey, and I look forward to leveraging my skills 
 
 # Education
 - Bachelor of Engineering in Industrial Engineering
-- - Parahyangan University, Bandung
+  Parahyangan University, Bandung
 
 My CV [pdf](https://drive.google.com/file/d/1FJPaxOqpS0kawMqrYX-CFHSAlrgTjcqm/view?usp=sharing)
 
