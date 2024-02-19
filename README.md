@@ -2,10 +2,14 @@
 
 # Introduction
 Hello!
-Welcome to my portfolio. Hi, I'm Reinardus Evan B. but you can call me Evan and I am glad to have you here
+Welcome to my portfolio. I'm Reinardus Evan B. but you can call me Evan and I am glad to have you here
 
 In the following section, I will be sure to provide you with a summary of my Data Analytics journey. 
 ![Alt text](1615054938341.jpeg)
+
+## Reach me at:
+- Linkedin : [Linkedin](https://www.linkedin.com/in/reinardusevanb2012/)
+- E-Mail : wikramaevan@gmail.com
 
 # About Me
 A motivated individual and dedicated professional with experience in the supply chain, specializing in production planning and inventory control within the FMCG industry. With my experience, I offer a solid foundation in analytical skills, enabling me to ensure effective and efficient day-to-day production operations through the application of forecasting and scheduling techniques. I am proficient in Python, SQL, and Tableau coupled with my problem-solving ability, adaptability, and collaboration. With my educational background in Industrial Engineering and recent skills boosting in RevoU Data Analytics Program, I bring robust skills in data analytics to derive actionable insights and drive informed decision-making in various industrial settings. In conclusion, with my experiences, skills, and education I am eager to bring my unique blend of skills and experiences to the team and contribute to its success, with a particular focus on augmenting operations in supply chain management.
@@ -43,7 +47,12 @@ Full-stack Data Analytics Online Course
 - Initiated process optimization and 5S implementation by undergoing deep operational analysis to increase warehouse efficiency by 5%
 - Generated and presented weekly reports to the warehouse supervisor by leveraging data analysis methodology to provide actionable insights
 
-Download my CV [pdf](https://drive.google.com/file/d/1FJPaxOqpS0kawMqrYX-CFHSAlrgTjcqm/view?usp=sharing)
+## Skills
+- Programming Language: Python, R, SQL
+- Visualization & Analysis Tools: Tableau, Jupyter Notebook, Google Colab, Microsoft Excel
+- Data Analysis: Descriptive Statistics, Exploratory Data Analysis, A/B Testing, Cluster Analysis, Regression Analysis, Machine Learning
+
+Download my CV [pdf](https://drive.google.com/file/d/1uQVfgB1z5a4Z8v9_4M8eIr136ZpT5vwd/view?usp=drive_link)
 
 # Project
 ## Spreadsheet/ Excel Skill sets:
