@@ -3,32 +3,42 @@
 # Introduction
 Hello!
 Welcome to my portfolio. Hi, I'm Reinardus Evan B. but you can call me Evan and I am glad to have you here
-![Alt text](1615054938341.jpeg)
 
 In the following section, I will be sure to provide you with a summary of my Data Analytics journey. 
+![Alt text](1615054938341.jpeg)
 
 # About Me
 A motivated individual and dedicated professional with experience in the supply chain, specializing in production planning and inventory control within the FMCG industry. With my experience, I offer a solid foundation in analytical skills, enabling me to ensure effective and efficient day-to-day production operations through the application of forecasting and scheduling techniques. I am proficient in Python, SQL, and Tableau coupled with my problem-solving ability, adaptability, and collaboration. With my educational background in Industrial Engineering and recent skills boosting in RevoU Data Analytics Program, I bring robust skills in data analytics to derive actionable insights and drive informed decision-making in various industrial settings. In conclusion, with my experiences, skills, and education I am eager to bring my unique blend of skills and experiences to the team and contribute to its success, with a particular focus on augmenting operations in supply chain management.
 
 # Education
-**Parahyangan Catholic University**  
-*August 2016 – April 2021*  
-Bachelor of Industrial Engineering
 
-**Undergraduate Thesis:**  
-"Designing a Supply Chain Network to Enhance the Value of Coffee Shop Container Waste in Alignment with the Circular Economy"
+## **RevoU**
+*September 2023 – December 2023*
 
-**Relevant Courses:**  
-A/B Testing, Mathematical Modeling, Decision Analysis
+Full-stack Data Analytics Online Course
+1. Intensive data analytics program with a weekly learning commitment of 25 hours
+2. Comprehending how to formulate a business issue, handle extensive data, make sense of it, represent it visually, and convey the information effectively is crucial.
+
+## **Parahyangan Catholic University**  
+ *August 2016 – April 2021*  
+ Bachelor of Industrial Engineering
+
+ **Undergraduate Thesis:**  
+ "Designing a Supply Chain Network to Enhance the Value of Coffee Shop Container Waste in Alignment with the Circular Economy"
+
+ **Relevant Courses:**  
+ A/B Testing, Mathematical Modeling, Decision Analysis
 
 # Experience
-**Production Planning Inventory Control, PT Ultra Prima Abadi**
+## **Production Planning Inventory Control, PT Ultra Prima Abadi**
+
 *April 2022 - Now*
 - Schedule and coordinate with procurement departments to ensure on-time arrival of raw materials to inventory and maximize production downtime by 5%.
 - Implement inventory management strategies, resulting in excess inventory levels reduction by 15% of raw materials.
 - Analyze and forecast raw materials requisition according to its lead time, resulting in 90% accuracy in the timely arrival of materials aligned with estimated requirements.
 
-**Logistics (Internship), PT. Kalbe Farma**
+## **Logistics (Internship), PT. Kalbe Farma**
+
 *June 2019 – August 2019*
 - Initiated process optimization and 5S implementation by undergoing deep operational analysis to increase warehouse efficiency by 5%
 - Generated and presented weekly reports to the warehouse supervisor by leveraging data analysis methodology to provide actionable insights
