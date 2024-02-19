@@ -1,8 +1,9 @@
-# Reinardus-Evan-Data-Analytics-Portfolio
+# Reinardus-Evan-B-Portfolio
 
 # Introduction
 Hello!
 Welcome to my portfolio. Hi, I'm Reinardus Evan B. but you can call me Evan and I am glad to have you here
+![Alt text](1615054938341.jpeg)
 
 In the following section, I will be sure to provide you with a summary of my Data Analytics journey. 
 
