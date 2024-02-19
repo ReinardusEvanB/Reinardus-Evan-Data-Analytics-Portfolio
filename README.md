@@ -1,11 +1,12 @@
-# Reinardus-Evan-B-Portfolio
+# Reinardus Evan B Portfolio
 
 # Introduction
 Hello!
 Welcome to my portfolio. I'm Reinardus Evan B. but you can call me Evan and I am glad to have you here
 
 In the following section, I will be sure to provide you with a summary of my Data Analytics journey. 
-![Alt text](1615054938341.jpeg)
+
+<img src="1615054938341.jpeg" width="200" height="200">
 
 ## Reach me at:
 - Linkedin : [Linkedin](https://www.linkedin.com/in/reinardusevanb2012/)
