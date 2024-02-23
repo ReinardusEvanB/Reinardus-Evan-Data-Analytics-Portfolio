@@ -8,10 +8,6 @@ In the following section, I will be sure to provide you with a summary of my Dat
 
 <img src="1615054938341.jpeg" width="200" height="200">
 
-## Reach me at:
-- Linkedin : [Linkedin](https://www.linkedin.com/in/reinardusevanb2012/)
-- E-Mail : wikramaevan@gmail.com
-
 # About Me
 A motivated individual and dedicated professional with experience in the supply chain, specializing in production planning and inventory control within the FMCG industry. With my experience, I offer a solid foundation in analytical skills, enabling me to ensure effective and efficient day-to-day production operations through the application of forecasting and scheduling techniques. I am proficient in Python, SQL, and Tableau coupled with my problem-solving ability, adaptability, and collaboration. With my educational background in Industrial Engineering and recent skills boosting in RevoU Data Analytics Program, I bring robust skills in data analytics to derive actionable insights and drive informed decision-making in various industrial settings. In conclusion, with my experiences, skills, and education I am eager to bring my unique blend of skills and experiences to the team and contribute to its success, with a particular focus on augmenting operations in supply chain management.
 
@@ -149,6 +145,10 @@ Khanty–Mansi Autonomous Okrug – Yugra, Yamalo-Nenets Autonomous Okrug, Novgo
 To provide Hotel X with an executive summary report detailing its performance thus far
 
 [Executive summary hotel x](https://public.tableau.com/app/profile/reinardus.evan.b/viz/DEEP_17041042861150/XExecutiveSummary?publish=yes)
+
+## Get in touch with me!:
+- Linkedin : [Linkedin](https://www.linkedin.com/in/reinardusevanb2012/)
+- E-Mail : wikramaevan@gmail.com
 
 
 
